@@ -40,9 +40,7 @@ Cd into the folder and install items on requirement.txt
 
 ```python
 pip install -r /<path>/<to>/requirements.txt
-````
-
-
+```
 
 
 
