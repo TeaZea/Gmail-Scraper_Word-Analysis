@@ -1,7 +1,6 @@
 # Gmail Scraper for Word Analysis
 
-### Overview
-This small script will scrape your gmail and creates a word analysis visualization from the contents of the queried emails.
+### TLDR; This small script will scrape your gmail and creates a word analysis visualization from the contents of the queried emails.
 
 ---
 
