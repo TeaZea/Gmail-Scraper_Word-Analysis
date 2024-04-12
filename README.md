@@ -1,6 +1,7 @@
 # Gmail Scraper for Word Analysis
 
 ### TLDR; This small script will scrape your gmail and creates a word analysis visualization from the contents of the queried emails.
+The purpose is to gather a general outlook on interactions in the correspondence to try and decipher a general emotion/reaction of the participants towards one another. 
 
 ---
 
@@ -41,5 +42,16 @@ Cd into the folder and install items on requirement.txt
 pip install -r /<path>/<to>/requirements.txt
 ```
 
+### Running the script
+*_insert steps here_*
+
+### Overview of the code
+*_insert commentary here_*
+
+### Example output
+###### When run using Jupyter Notebook
+
+
+###### When run in command terminal
 
 
