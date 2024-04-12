@@ -49,9 +49,12 @@ pip install -r /<path>/<to>/requirements.txt
 *_insert commentary here_*
 
 ### Example output
-###### When run using Jupyter Notebook
-
-
-###### When run in command terminal
+#### When run using Jupyter Notebook
+---
+![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/jupyternotebook_output.png)
+---
+#### When run in command terminal
+---
+*_image here_*
 
 
