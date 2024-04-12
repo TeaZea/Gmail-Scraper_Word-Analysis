@@ -42,17 +42,23 @@ Cd into the folder and install items on requirement.txt
 pip install -r /<path>/<to>/requirements.txt
 ```
 
+---
+
 ### Running the script
 *_insert steps here_*
+
+---
 
 ### Overview of the code
 *_insert commentary here_*
 
+---
+
 ### Example output
 #### When run using Jupyter Notebook
----
+
 ![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/jupyternotebook_output.png)
----
+
 #### When run in command terminal
 ---
 *_image here_*
