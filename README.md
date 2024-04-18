@@ -57,10 +57,7 @@ pip install -r /<path>/<to>/requirements.txt
 ### Example output
 #### When run using Jupyter Notebook
 
-![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/jupyternotebook_output.png)
+![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/outputExample.jpg)
 
-#### When run in command terminal
----
-*_image here_*
 
 
