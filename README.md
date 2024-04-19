@@ -1,7 +1,7 @@
 # Gmail Scraper for Word Analysis
 
-### TLDR; This small script will scrape your gmail and creates a word analysis visualization from the contents of the queried emails.
-The purpose is to gather a general outlook on interactions in the correspondence to try and decipher a general emotion/reaction of the participants towards one another. 
+### TLDR;
+This small script will scrape your gmail and creates a word analysis visualization from the contents of the queried emails. The purpose is to gather a general outlook on interactions in the correspondence to try and decipher a general emotion/reaction of the participants towards one another. 
 
 ---
 
@@ -44,18 +44,12 @@ pip install -r /<path>/<to>/requirements.txt
 
 ---
 
-### Running the script
-*_insert steps here_*
-
----
-
 ### Overview of the code
 *_insert commentary here_*
 
 ---
 
 ### Example output
-#### When run using Jupyter Notebook
 
 ![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/outputExample.jpg)
 
