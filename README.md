@@ -55,6 +55,7 @@ pip install -r /<path>/<to>/requirements.txt
 ---
 
 ### Example output
+#### This example had the lyrics of Queen's Bohemian Rhapsody sent through a number emails from 1 person.
 
 ![Output when using Jupyter Notebook](https://github.com/TeaZea/gmail_scraper_word_analysis/blob/main/outputExample.jpg)
 
