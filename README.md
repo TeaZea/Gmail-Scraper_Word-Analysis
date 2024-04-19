@@ -42,6 +42,8 @@ Cd into the folder and install items on requirement.txt
 pip install -r /<path>/<to>/requirements.txt
 ```
 
+Open in Jupyter Notebook
+
 ---
 
 ### Setting up your gmail API
