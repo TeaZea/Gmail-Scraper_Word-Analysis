@@ -47,7 +47,7 @@ Open in Jupyter Notebook
 ---
 
 ### Setting up your gmail API
-*_insert commentary here_*
+Documentation on how to set up your gmail API can be found [here at the official documentation page](https://developers.google.com/gmail/api/guides).
 
 ---
 
