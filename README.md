@@ -58,10 +58,9 @@ I decided to use getpass library for some basic security. You can hardcode your 
 
 ![getpass code](https://github.com/TeaZea/Gmail-Scraper_Word-Analysis/blob/main/getpass.jpg)
 
-This is the main iteration of the script. It uses the imaplib and email libraries to iterate through the query (which would have been assigned before this section) and places the contents into the _body_ variable. After converting the variable using the nltk library, we loop through the new variable (_token_) and remove any words from our _toDropAll_ list. 
+This is the main iteration of the script. It uses the imaplib and email libraries to iterate through the query (which would have been assigned before this section) and places the contents into the _body_ variable. After converting the variable using the nltk library, I  loop through the new variable (_token_) and remove any words from the _toDropAll_ list. 
 
-This list is custom stopwords list I created for this example, but you can edit it with whatever other words you want. This can also be replaced by STOPWORDS library from wordcloud.
-The result variable is appended into the _bar_ list variable before is converted to a string and passed into a CSV file to begin the visualization process.
+This list is custom stopwords list I created for this example, but you can edit it with whatever other words you want. This can also be replaced by STOPWORDS library from wordcloud or another prefered library. The result is appended into the _bar_ list variable before is converted to a string and passed into a CSV file to begin the visualization process.
 
 ![Main iteration of the script](https://github.com/TeaZea/Gmail-Scraper_Word-Analysis/blob/main/analysis_loop.jpg)
 
