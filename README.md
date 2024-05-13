@@ -8,12 +8,6 @@ The purpose is to gather a general outlook on interactions in the correspondence
 ---
 
 ### Setup
-Update the System
-
-```python
-sudo apt-get update
-```
-
 Install virtual environment
 
 ```python
